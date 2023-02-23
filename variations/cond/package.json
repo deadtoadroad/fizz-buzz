@@ -1,5 +1,5 @@
 {
-  "name": "if-dry",
+  "name": "cond",
   "version": "0.0.0",
   "main": "src/main.js",
   "scripts": {

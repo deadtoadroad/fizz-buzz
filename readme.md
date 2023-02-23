@@ -2,7 +2,7 @@
 
 Various implementations of [Fizz Buzz](https://en.wikipedia.org/wiki/Fizz_buzz#Play) in JavaScript using a functional approach.
 
-- [if-dry](./variations/if-dry)
+- [cond](./variations/cond)
 - [transform](./variations/transform)
 
 ## Fizz Buzz
